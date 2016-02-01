@@ -1,0 +1,4 @@
+<mvc:View controllerName="hcpobjective.controller.EmptyPage" height="100%" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m">
+	<MessagePage description="" id="messagePage" navButtonPress="onNavButtonPress" showNavButton="{device>/system/phone}"
+		text="===================="/>
+</mvc:View>
