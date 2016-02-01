@@ -1,0 +1,53 @@
+{
+    "resources": [
+        {
+            "name": "view/MainView.view.xml"
+        },
+        {
+            "name": "view/EmptyPage.view.xml"
+        },
+        {
+            "name": "view/ProfileObjectivePage.view.xml"
+        },
+        {
+            "name": "controller/MainView.controller.js"
+        },
+        {
+            "name": "controller/EmptyPage.controller.js"
+        },
+        {
+            "name": "controller/ProfileObjectivePage.controller.js"
+        },
+        {
+            "name": "model/models.js"
+        },
+        {
+            "name": "i18n/i18n.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "i18n/i18n_en.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "i18n/i18n_en_US.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "Component.js"
+        },
+        {
+            "name": "css/style.css"
+        },
+        {
+            "name": "index.html"
+        },
+        {
+            "name": "Component-preload.js",
+            "merged": true
+        },
+        {
+            "name": "neo-app.json"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+<mvc:View controllerName="hcpobjective.controller.MainView" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc"
+	xmlns="sap.m">
+	<App id="objectiveContent">
+	  
+	</App>
+	<!--SplitApp id="objectiveContent"/-->
+</mvc:View>
